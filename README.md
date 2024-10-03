@@ -65,10 +65,12 @@ EDA involved the exploring of the Data to answer some questions about the Data s
 
 Here we show some lines of code of Excel and queries used during the analysis 
 
-    '''sql
+``` sql
  select * from Table1
  where condition=True
-    '''
+```
+
+    
 ### Data Visualization 
     
 💻
