@@ -1,4 +1,20 @@
 I am actively undergoing a training with an incubator hub with Ladies In Tech Africa. This experience has been so impactful in sharpening my skills in data manipulation, analysis, and visualization. However hands-on exprience projects have helped me to gain deeper insights into data-driven decision-making processes, enhancing my abilities to extract meaningful patterns.
+### Project Outline
+[Project overview](#project-overview)
+
+[Data sources](#data-sources)
+
+[Tools used](#tools-used)
+
+[Data cleaning and preparations](#data-cleaning-and-preparations)
+
+[Explainatory Data Analysis](#explanatory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](#data-visualization)
+ 
+ 
 
 ### Project overview
 ---
@@ -75,7 +91,10 @@ Here we show some lines of code of Excel and queries used during the analysis
 ### Data Visualization 
 ---
 
+💻
 
-| heading1| heading2| heading3|
-|--------|-------|-----------|
-| Table1| Table2| Table3|
+😆
+
+|Heading 1 |Heading 2 |Heading 3|
+|----------|----------|---------|
+|Table 1|Table 2|Table 3|
