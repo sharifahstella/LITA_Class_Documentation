@@ -8,7 +8,7 @@ I am actively undergoing a training with an incubator hub with Ladies In Tech Af
 
 [Data cleaning and preparations](#data-cleaning-and-preparations)
 
-[Explainatory Data Analysis](#explanatory-data-analysis)
+[Explainatory Data Analysis](#explainatory-data-analysis)
 
 [Data Analysis](#data-analysis)
 
