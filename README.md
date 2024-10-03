@@ -1,11 +1,11 @@
 I am actively undergoing a training with an incubator hub with Ladies In Tech Africa. This experience has been so impactful in sharpening my skills in data manipulation, analysis, and visualization. However hands-on exprience projects have helped me to gain deeper insights into data-driven decision-making processes, enhancing my abilities to extract meaningful patterns.
 
 ### Project overview
-
+---
 Microsoft Excel is a great way to summarize key information about your project.This project overview template can serve as a dynamic tool to track and communicate key aspects of your project
 
 ### Data sources
-
+---
 Microsoft Excel offers various ways to import and utilize data from different sources. Here’s a rundown of common data sources you can connect to in Excel:
 - Excel Workbooks
 - CSV and Text Files
@@ -16,6 +16,7 @@ Microsoft Excel offers various ways to import and utilize data from different so
 However in this training the main data source being used is the Excel Workbooks,CSV and Text Files
 
 ### Tools used
+---
 - Microsoft Excel [Download Here](https://www.microsoft.com)
   1. Data cleaning
   2. Visualization
@@ -46,7 +47,7 @@ i. Repoting with Pivot Tables and charts 2:
 I explore even more advanced techniques and tips for creating professional-grade reports that effectively communicate your data insights.I fully mastered pivot tables and charts, offering the tools and knowledge to create dynamic, interactive, and insightful reports.
   
 ### Data cleaning and preparations
-
+---
 In the initial Phase of the Data Cleaning and Preparations, we perform the following action;
 
 - Data Cleaning
@@ -54,7 +55,7 @@ In the initial Phase of the Data Cleaning and Preparations, we perform the follo
 - Data Cleaning and Formatting
 
 ### Explainatory Data Analysis 
-
+---
 EDA involved the exploring of the Data to answer some questions about the Data such as;
 
 - What is the Overall Sales Trend?
@@ -62,7 +63,7 @@ EDA involved the exploring of the Data to answer some questions about the Data s
 - What are the products on Peak sales?
 
 ### Data Analysis
-
+ ---
 Here we show some lines of code of Excel and queries used during the analysis 
 
 ``` sql
