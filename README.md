@@ -73,8 +73,8 @@ Here we show some lines of code of Excel and queries used during the analysis
 
     
 ### Data Visualization 
-    
-💻
+
+
 
 | heading1| heading2| heading3|
 |--------|-------|-----------|
