@@ -13,6 +13,8 @@ I am actively undergoing a training with an incubator hub with Ladies In Tech Af
 [Data Analysis](#data-analysis)
 
 [Data Visualization](#data-visualization)
+
+[Learning Outcomes](#learning-outcomes)
  
  
 
@@ -98,3 +100,13 @@ Here we show some lines of code of Excel and queries used during the analysis
 |Heading 1 |Heading 2 |Heading 3|
 |----------|----------|---------|
 |Table 1|Table 2|Table 3|
+
+
+### Learning Outcomes 
+
+-  Ability to write complex SQL queries to retrieve, filter, and aggregate data from relational databases.
+-  Understanding of database structures and the ability to create, modify, and manage tables and relationships.
+-  Skills in using SQL for data insertion, updating, and deletion while maintaining data integrity.
+-  Proficiency in using Excel functions, formulas, and tools (like PivotTables and VLOOKUP) for data analysis.
+-  Ability to create charts, graphs, and dashboards in Excel to effectively present data insights.
+-  Familiarity with advanced Excel features such as macros, data validation, and conditional formatting for enhanced analysis.
