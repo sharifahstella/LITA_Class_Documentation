@@ -22,16 +22,90 @@ I am actively undergoing a training with an incubator hub with Ladies In Tech Af
 ---
 Microsoft Excel is a great way to summarize key information about your project.This project overview template can serve as a dynamic tool to track and communicate key aspects of your project
 
-### Data sources
----
-Microsoft Excel offers various ways to import and utilize data from different sources. Here’s a rundown of common data sources you can connect to in Excel:
-- Excel Workbooks
-- CSV and Text Files
-- Web Data
-- Databases
-- Power Query exetra
+1. ### Project Name:
 
-However in this training the main data source being used is the Excel Workbooks,CSV and Text Files
+**Sales Performance Analysis by Territory**
+
+2. ### Project Date:
+   
+Start Date: [Insert Date]
+
+Completion Date: [Insert Date]
+
+3. ### Project Owner:
+
+****Sharifah Raciwu** **
+
+
+1.1  **Project Objectives**
+
+The purpose of this project is to analyze sales performance across different territories to gain insights into regional trends, sales growth, and areas for improvement. This report will help the sales team and management to:
+
+- Identify the top-performing territories
+
+- Detect underperforming areas that require more attention
+
+- Compare quarterly or annual sales performance across regions
+
+- Support data-driven decision-making for resource allocation and sales strategy development
+
+1.2 **Scope**
+
+This report focuses on sales data across various territories, covering key performance indicators such as total revenue, number of units sold, Model, and Line of business. The report will include:
+
+- Sales data for [Q1 2012, full year 2023]
+- Comparative analysis between different territories
+- Visual representation of sales trends using Excel charts
+- Recommendations for optimizing sales performance in underperforming regions
+
+2.#### **Methodology**
+
+2.1 ### **Data Collection**
+
+Source: Sales data was gathered from the company’s CRM system and exported into Excel as CSV files.
+
+Data Structure: The dataset includes columns for:
+
+- Region
+- Market
+- Store
+- Trade Date
+- Fiscal period
+- Model
+- Line of business
+- Date category
+- Revenue
+- units sold
+
+2.2. **Data Cleaning and Preprocessing**
+
+Duplicates were removed from the dataset.
+
+Missing data points for certain territories were identified and handled (e.g., using averages or filling in with previous data trends).
+
+Dates were standardized to ensure consistency across the time period analyzed.
+
+2.3.** **Data Analysis ****
+
+Pivot Tables were used to summarize sales data by territory and calculate key metrics such as total sales, revenue, and average sales per unit.
+
+Charts and Graphs: Sales trends were visualized using bar charts, line charts, and pie charts to highlight sales performance by region.
+
+3.### Implementation
+
+3.1 Excel Features Used
+
+Pivot Tables: To organize and summarize sales data by territory.
+**Formulas**:
+
+- SUMIFS to calculate total sales for each territory.
+- AVERAGEIFS to compute average order values per territory.
+- IF functions to identify underperforming territories based on sales targets.
+- 
+Conditional Formatting: Applied to visually distinguish high and low sales regions.
+
+Charts: Bar charts and line graphs to visualize total revenue and growth rates.
+
 
 ### Tools used
 ---
@@ -64,14 +138,6 @@ i. Repoting with Pivot Tables and charts 2:
 
 I explore even more advanced techniques and tips for creating professional-grade reports that effectively communicate your data insights.I fully mastered pivot tables and charts, offering the tools and knowledge to create dynamic, interactive, and insightful reports.
   
-### Data cleaning and preparations
----
-In the initial Phase of the Data Cleaning and Preparations, we perform the following action;
-
-- Data Cleaning
-- Handling missing Variable
-- Data Cleaning and Formatting
-
 ### Explainatory Data Analysis 
 ---
 EDA involved the exploring of the Data to answer some questions about the Data such as;
@@ -92,6 +158,11 @@ Here we show some lines of code of Excel and queries used during the analysis
     
 ### Data Visualization 
 ---
+Categorising of units sold by category of high,Low and medium
+
+i used a conditional function SWITCH to find the Transaction category column
+
+![]
 
 💻
 
