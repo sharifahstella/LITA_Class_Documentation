@@ -91,9 +91,9 @@ Pivot Tables were used to summarize sales data by territory and calculate key me
 
 Charts and Graphs: Sales trends were visualized using bar charts, line charts, and pie charts to highlight sales performance by region.
 
-3.### Implementation
+3.### **Implementation**
 
-3.1 Excel Features Used
+3.1 **Excel Features Used**
 
 Pivot Tables: To organize and summarize sales data by territory.
 **Formulas**:
