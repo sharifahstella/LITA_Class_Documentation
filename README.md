@@ -162,8 +162,21 @@ Categorising of units sold by category of high,Low and medium
 
 i used a conditional function SWITCH to find the Transaction category column
 
-![]
+![Pivot](https://github.com/sharifahstella/LITA_Class_Documentation/blob/main/pivot.JPG)
 
+
+4.1** **Key Insights****
+
+Top-Performing Territories: [Territory A] and [Territory B] generated the highest revenue, exceeding their sales targets by [X%].
+Underperforming Territories: [Territory C] and [Territory D] fell below their targets, with sales declining by [Y%] compared to the previous year.
+Sales Trends: Steady growth was observed in the western region, while sales in the eastern region fluctuated, potentially due to seasonal factors.
+
+4.2 **Visualizations and Reports**
+
+A dynamic dashboard was created in Excel, showcasing total sales by territory, percentage growth, and sales targets vs actual performance. Attached screenshots show:
+- Bar chart of total sales by territory
+- Line chart comparing quarterly sales trends
+- Pie chart representing each territory’s contribution to overall sales
 💻
 
 😆
