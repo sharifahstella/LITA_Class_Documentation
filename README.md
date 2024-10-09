@@ -164,6 +164,10 @@ i used a conditional function SWITCH to find the Transaction category column
 
 ![Pivot](https://github.com/sharifahstella/LITA_Class_Documentation/blob/main/pivot.JPG)
 
+A Report of how much Revenue was made by each region
+
+![Revenue]()
+
 
 4.1** **Key Insights****
 
