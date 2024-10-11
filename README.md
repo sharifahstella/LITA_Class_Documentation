@@ -85,8 +85,8 @@ Missing data points for certain territories were identified and handled (e.g., u
 
 Dates were standardized to ensure consistency across the time period analyzed.
 
-2.3.** **Data Analysis ****
-
+2.3 #### Data Analysis
+---
 Pivot Tables were used to summarize sales data by territory and calculate key metrics such as total sales, revenue, and average sales per unit.
 
 Charts and Graphs: Sales trends were visualized using bar charts, line charts, and pie charts to highlight sales performance by region.
@@ -166,14 +166,14 @@ i used a conditional function SWITCH to find the Transaction category column
 
 A Report of how much Revenue was made by each region
 
-![Revenue]()
+![Revenue](https://github.com/sharifahstella/LITA_Class_Documentation/blob/main/Revenue1.JPG)
 
 
 4.1** **Key Insights****
 
-Top-Performing Territories: [Territory A] and [Territory B] generated the highest revenue, exceeding their sales targets by [X%].
-Underperforming Territories: [Territory C] and [Territory D] fell below their targets, with sales declining by [Y%] compared to the previous year.
-Sales Trends: Steady growth was observed in the western region, while sales in the eastern region fluctuated, potentially due to seasonal factors.
+Top 10-Performing Stores: [Ankpa] and [Ajoakuta] generated the highest revenue, exceeding their sales targets.
+Underperforming Markets: [Boki] and [Kwali] fell below their targets, with sales declining.
+Sales Trends: Steady growth was observed in the North East, while sales in the North Central fluctuated, potentially due to seasonal factors.
 
 4.2 **Visualizations and Reports**
 
