@@ -155,20 +155,7 @@ Here we show some lines of code of Excel and queries used during the analysis
  where condition=True
 ```
 
-    
-### Data Visualization 
----
-Categorising of units sold by category of high,Low and medium
-
-i used a conditional function SWITCH to find the Transaction category column
-
-![Pivot](https://github.com/sharifahstella/LITA_Class_Documentation/blob/main/pivot.JPG)
-
-A Report of how much Revenue was made by each region
-
-![Revenue](https://github.com/sharifahstella/LITA_Class_Documentation/blob/main/Revenue1.JPG)
-
-
+   
 4.1** **Key Insights****
 
 Top 10-Performing Stores: [Ankpa] and [Ajoakuta] generated the highest revenue, exceeding their sales targets.
@@ -178,9 +165,22 @@ Sales Trends: Steady growth was observed in the North East, while sales in the N
 4.2 **Visualizations and Reports**
 
 A dynamic dashboard was created in Excel, showcasing total sales by territory, percentage growth, and sales targets vs actual performance. Attached screenshots show:
-- Bar chart of total sales by territory
+- Bar chart of total revenue by region
 - Line chart comparing quarterly sales trends
 - Pie chart representing each territory’s contribution to overall sales
+
+Categorising of units sold by category of high,Low and medium
+
+i used a conditional function of Nested Ifs to find the Transaction category column
+
+![Pivot](https://github.com/sharifahstella/LITA_Class_Documentation/blob/main/pivot.JPG)
+
+A Report of how much Revenue was made by each region
+
+
+
+
+
 💻
 
 😆
