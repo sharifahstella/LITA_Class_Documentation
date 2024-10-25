@@ -55,8 +55,7 @@ Data Structure: The dataset includes columns for:
 
 ![Pivot](https://github.com/sharifahstella/LITA_Class_Documentation/blob/main/pivot.JPG)
 
-
-2.2. **Data Cleaning and Preprocessing**
+#### Data Cleaning and Preprocessing
 
 Duplicates were removed from the dataset.
 
@@ -66,22 +65,22 @@ Dates were standardized to ensure consistency across the time period analyzed.
 
 2.3 #### Data Analysis
 ---
+#### Used pivot tables to summarize
+
 Pivot Tables were used to summarize sales data by territory and calculate key metrics such as total sales, revenue, and average sales per unit.
 
 Charts and Graphs: Sales trends were visualized using bar charts, line charts, and pie charts to highlight sales performance by region.
 
 3.### **Implementation**
 
-3.1 **Excel Features Used**
 
-Pivot Tables: To organize and summarize sales data by territory.
-**Formulas**:
-
-- SUMIFS to calculate total sales for each territory.
-- AVERAGEIFS to compute average order values per territory.
-- IF functions to identify underperforming territories based on sales targets.
-- 
 Conditional Formatting: Applied to visually distinguish high and low sales regions.
+
+By Categorising of units sold by category of high,Low and medium
+
+i used a conditional function of Nested Ifs to find the Transaction category column
+
+![Pivot](https://github.com/sharifahstella/LITA_Class_Documentation/blob/main/pivot.JPG)
 
 Charts: Bar charts and line graphs to visualize total revenue and growth rates.
 
@@ -148,11 +147,7 @@ A dynamic dashboard was created in Excel, showcasing total sales by territory, p
 - Line chart comparing quarterly sales trends
 - Pie chart representing each territory’s contribution to overall sales
 
-Categorising of units sold by category of high,Low and medium
 
-i used a conditional function of Nested Ifs to find the Transaction category column
-
-![Pivot](https://github.com/sharifahstella/LITA_Class_Documentation/blob/main/pivot.JPG)
 
 A Report of how much Revenue was made by each region
 
