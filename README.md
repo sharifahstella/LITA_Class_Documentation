@@ -1,3 +1,5 @@
+# Sales Performance Analysis by Territory
+
 I am actively undergoing a training with an incubator hub with Ladies In Tech Africa. This experience has been so impactful in sharpening my skills in data manipulation, analysis, and visualization. However hands-on exprience projects have helped me to gain deeper insights into data-driven decision-making processes, enhancing my abilities to extract meaningful patterns.
 ### Project Outline
 [Project overview](#project-overview)
@@ -16,30 +18,13 @@ I am actively undergoing a training with an incubator hub with Ladies In Tech Af
 
 [Learning Outcomes](#learning-outcomes)
  
- 
+### Project Goals
 
-### Project overview
----
-Microsoft Excel is a great way to summarize key information about your project.This project overview template can serve as a dynamic tool to track and communicate key aspects of your project
+The goal of this project is to analyze and document sales performance across different territories for a retail store using Excel. This analysis will provide insights into sales trends, top-performing products, regional sales differences, and monthly sales patterns. The objective is to empower the business team with actionable insights to improve decision-making and optimize sales strategies by region.
 
-1. ### Project Name:
+This project is for examining sales data, the analysis seeks to uncover key insights regarding top-selling products, regional performance, customer trends, and monthly sales patterns
 
-**Sales Performance Analysis by Territory**
-
-2. ### Project Date:
-   
-Start Date: [Insert Date]
-
-Completion Date: [Insert Date]
-
-3. ### Project Owner:
-
-****Sharifah Raciwu** **
-
-
-1.1  **Project Objectives**
-
-The purpose of this project is to analyze sales performance across different territories to gain insights into regional trends, sales growth, and areas for improvement. This report will help the sales team and management to:
+1. ### Goals 
 
 - Identify the top-performing territories
 
@@ -49,33 +34,27 @@ The purpose of this project is to analyze sales performance across different ter
 
 - Support data-driven decision-making for resource allocation and sales strategy development
 
-1.2 **Scope**
-
-This report focuses on sales data across various territories, covering key performance indicators such as total revenue, number of units sold, Model, and Line of business. The report will include:
-
-- Sales data for [Q1 2012, full year 2023]
-- Comparative analysis between different territories
-- Visual representation of sales trends using Excel charts
-- Recommendations for optimizing sales performance in underperforming regions
-
-2.#### **Methodology**
-
-2.1 ### **Data Collection**
+### 1.1 Data Overview
 
 Source: Sales data was gathered from the company’s CRM system and exported into Excel as CSV files.
 
 Data Structure: The dataset includes columns for:
 
-- Region
-- Market
-- Store
-- Trade Date
-- Fiscal period
-- Model
-- Line of business
-- Date category
-- Revenue
-- units sold
+- Region:Geographical area where the sale was made
+- Market:The specific market within a region
+- Store:The name or identifier for the individual store where the sale was made.
+- Trade Date:The actual date on which the sale occurred.
+- Fiscal period:A standardized period for reporting sales data
+- Model:Refers to the specific model of the product sold
+- Line of business:The specific area or division of business under which the product sale falls
+- Date category:A broader categorization of dates
+- Revenue:Total revenue generated from each sale transaction.
+- units sold:The total quantity of units sold in each transaction.
+
+#### Data Example
+
+![Pivot](https://github.com/sharifahstella/LITA_Class_Documentation/blob/main/pivot.JPG)
+
 
 2.2. **Data Cleaning and Preprocessing**
 
