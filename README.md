@@ -53,7 +53,7 @@ Data Structure: The dataset includes columns for:
 
 #### Data Example
 
-![Pivot](https://github.com/sharifahstella/LITA_Class_Documentation/blob/main/pivot.JPG)
+![Pivot](https://github.com/sharifahstella/LITA_Class_Documentation/blob/main/terri.JPG)
 
 #### Data Cleaning and Preprocessing
 
