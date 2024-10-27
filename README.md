@@ -51,11 +51,11 @@ Data Structure: The dataset includes columns for:
 - Revenue:Total revenue generated from each sale transaction.
 - units sold:The total quantity of units sold in each transaction.
 
-#### Data Example
+#### 1.2 Data Example
 
 ![Pivot](https://github.com/sharifahstella/LITA_Class_Documentation/blob/main/terri.JPG)
 
-#### Data Cleaning and Preprocessing
+ #### 1.3 Data Cleaning and Preprocessing
 
 Duplicates were removed from the dataset.
 
@@ -63,29 +63,15 @@ Missing data points for certain territories were identified and handled (e.g., u
 
 Dates were standardized to ensure consistency across the time period analyzed.
 
-2.3 #### Data Analysis
+ ### 2 Data Analysis
 ---
-#### Used pivot tables to summarize
+#### 2.1  Used pivot tables to summarize
 
 Pivot Tables were used to summarize sales data by territory and calculate key metrics such as total sales, revenue, and average sales per unit.
 
 Charts and Graphs: Sales trends were visualized using bar charts, line charts, and pie charts to highlight sales performance by region.
 
-3.### **Implementation**
-
-
-Conditional Formatting: Applied to visually distinguish high and low sales regions.
-
-By Categorising of units sold by category of high,Low and medium
-
-i used a conditional function of Nested Ifs to find the Transaction category column
-
-![Pivot](https://github.com/sharifahstella/LITA_Class_Documentation/blob/main/pivot.JPG)
-
-Charts: Bar charts and line graphs to visualize total revenue and growth rates.
-
-
-### Tools used
+#### 2.2 Tools used
 ---
 - Microsoft Excel [Download Here](https://www.microsoft.com)
   1. Data cleaning
@@ -115,26 +101,29 @@ iii. Excel function III
 i. Repoting with Pivot Tables and charts 2:
 
 I explore even more advanced techniques and tips for creating professional-grade reports that effectively communicate your data insights.I fully mastered pivot tables and charts, offering the tools and knowledge to create dynamic, interactive, and insightful reports.
+
+
+### 3. Implementation
+
+
+Conditional Formatting: Applied to visually distinguish high and low sales regions.
+
+By Categorising of units sold by category of high,Low and medium
+
+i used a conditional function of Nested Ifs to find the Transaction category column
+
+![Pivot](https://github.com/sharifahstella/LITA_Class_Documentation/blob/main/pivot.JPG)
+
+Pivot Tables showing the summarization of various reports 
+- 
+
+Charts: Bar charts and line graphs to visualize total revenue and growth rates.
+
+
+
   
-### Explainatory Data Analysis 
----
-EDA involved the exploring of the Data to answer some questions about the Data such as;
-
-- What is the Overall Sales Trend?
-- Which product are Top Sellers?
-- What are the products on Peak sales?
-
-### Data Analysis
- ---
-Here we show some lines of code of Excel and queries used during the analysis 
-
-``` sql
- select * from Table1
- where condition=True
-```
-
    
-4.1** **Key Insights****
+### 4 Key Insights
 
 Top 10-Performing Stores: [Ankpa] and [Ajoakuta] generated the highest revenue, exceeding their sales targets.
 Underperforming Markets: [Boki] and [Kwali] fell below their targets, with sales declining.
