@@ -78,25 +78,7 @@ Charts and Graphs: Sales trends were visualized using bar charts, line charts, a
   2. Visualization
   3. Data Analysis
   
-I have learnt the basics of data analysis with MUSHIN AHMED at the incubator hub training with the Ladies In Tech Africa(LITA).Therefore below is the the break down of what i learnt from the class 
-#### - Week one
-   
-  i. Basis of data analysis: Involves a series of steps to examine, clean, and interpret data in order to extract useful insights.Where he did an introduction of microsoft excel and he told us to launch a work book on our system of which he said we can have many workbooks where within the workbook we have different worksheets.The facilitator went ahead to teach us about the Ribbon interfaces in excel where it has different tabs in it  
-  
-  ii. Excel interface and Navigation: I learnt fundamentamentals of data analysis that helped to solidify my foundations in the course.
-  
-  iii. Data entry in excel: I learnt the best practices and techniques for accurately and efficiently inputting data into spreadsheets. Also learnt how to create and format worksheets, enter data using various methods, and ensure data integrity. And to discover tips  on to avoid common data entry errors and maintain data consistency.
-  
-#### - week two
-
-i. Excel function I:
-
-I gained practical tips and techniques that helped me: Create and format worksheets with ease and precision,Input data accurately using multiple methods and to  Maintain data integrity and avoid common errors.
-
-ii. Excel function II
-iii. Excel function III
-
-#### - week 3
+I have learnt the basics of data analysis with MUSHIN AHMED at the incubator hub training with the Ladies In Tech Africa(LITA).Therefore below is the the break down of what i learnt 
 
 i. Repoting with Pivot Tables and charts 2:
 
