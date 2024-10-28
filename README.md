@@ -122,7 +122,7 @@ A report of Monthly Total revenue
 
 ![model](https://github.com/sharifahstella/LITA_Class_Documentation-Excel/blob/main/monthly%20%20total%20revenue.PNG)
 
-4 ## Visualizations and Reports
+## 4. Visualizations and Reports
 
 A dynamic dashboard was created in Excel, showcasing total sales by territory, percentage growth, and sales targets vs actual performance. Attached screenshots show:
 - Bar chart of total revenue by region
@@ -130,7 +130,9 @@ A dynamic dashboard was created in Excel, showcasing total sales by territory, p
 - Pie chart representing each territory’s contribution to overall sales
 
 Charts: Bar charts and line graphs to visualize total revenue and growth rates.
-
+Bar chart of total revenue by region
+![model]()
+Bar chart of total revenue by region
 
 
 ### 4. Key Insights
