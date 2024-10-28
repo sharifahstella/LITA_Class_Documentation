@@ -120,7 +120,7 @@ A report of the top 5 markets by revenue
 
 A report of Monthly Total revenue 
 
-![model]()
+![model](https://github.com/sharifahstella/LITA_Class_Documentation-Excel/blob/main/monthly%20%20total%20revenue.PNG)
 
 4 **Visualizations and Reports**
 
