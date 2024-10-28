@@ -100,6 +100,11 @@ Pivot Tables showing the summarization of various reports
 
 A Report of how much Revenue was made by each region
 
+![revenue](https://github.com/sharifahstella/LITA_Class_Documentation-Excel/blob/main/Revenue%20region.JPG)
+
+A Report of how much units sold was made by each region
+
+![revenue](https://github.com/sharifahstella/LITA_Class_Documentation-Excel/blob/main/Revenue%20region.JPG)
 
 4 **Visualizations and Reports**
 
