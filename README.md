@@ -133,14 +133,14 @@ Charts: Bar charts and line graphs to visualize total revenue and growth rates.
 
 
 
-### 4 Key Insights
+### 4. Key Insights
 
 Top 10-Performing Stores: [Ankpa] and [Ajoakuta] generated the highest revenue, exceeding their sales targets.
 Underperforming Markets: [Boki] and [Kwali] fell below their targets, with sales declining.
 Sales Trends: Steady growth was observed in the North East, while sales in the North Central fluctuated, potentially due to seasonal factors.
 
 
-5 ### Learning Outcomes 
+### 5. Learning Outcomes 
 
 -  Ability to write complex SQL queries to retrieve, filter, and aggregate data from relational databases.
 -  Understanding of database structures and the ability to create, modify, and manage tables and relationships.
