@@ -112,9 +112,12 @@ A Report of Model by revenue
 
 A report of Top 10 stores by revenue
 
-![model](https://github.com/sharifahstella/LITA_Class_Documentation-Excel/blob/main/modelrevenue.JPG)
+![model](https://github.com/sharifahstella/LITA_Class_Documentation-Excel/blob/main/Top10%20store.JPG)
 
 A report of the top 5 markets by revenue
+
+![model](https://github.com/sharifahstella/LITA_Class_Documentation-Excel/blob/main/Top10%20store.JPG)
+
 
 A report of the bottom 5 stores by revenue 
 
