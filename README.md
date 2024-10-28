@@ -140,7 +140,11 @@ Bar chart of total revenue by Units sold
 
 A pie chart that shows units sold by line of business
 
-![model](https://github.com/sharifahstella/LITA_Class_Documentation-Excel/blob/main/horizontal.PNG)
+![model](https://github.com/sharifahstella/LITA_Class_Documentation-Excel/blob/main/pie.PNG)
+
+A line graph that shows Monthly Total revenue
+
+![model]()
 
 
 ### 4. Key Insights
