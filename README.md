@@ -85,7 +85,7 @@ i. Repoting with Pivot Tables and charts 2:
 I explore even more advanced techniques and tips for creating professional-grade reports that effectively communicate your data insights.I fully mastered pivot tables and charts, offering the tools and knowledge to create dynamic, interactive, and insightful reports.
 
 
-### 3. Implementation
+## 3. Implementation
 
 
 Conditional Formatting: Applied to visually distinguish high and low sales regions.
@@ -122,7 +122,7 @@ A report of Monthly Total revenue
 
 ![model](https://github.com/sharifahstella/LITA_Class_Documentation-Excel/blob/main/monthly%20%20total%20revenue.PNG)
 
-4 **Visualizations and Reports**
+4 ## Visualizations and Reports
 
 A dynamic dashboard was created in Excel, showcasing total sales by territory, percentage growth, and sales targets vs actual performance. Attached screenshots show:
 - Bar chart of total revenue by region
