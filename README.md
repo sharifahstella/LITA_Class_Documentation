@@ -7,7 +7,11 @@ I am actively undergoing a training with an incubator hub with Ladies In Tech Af
 
 [Data Analysis](#data-analysis)
 
-[Data Visualization](#data-visualization)
+[Implementation](#implementation)
+
+[Data Visualizaton](#data-visualization)
+
+[Key Insights](#key-insights)
 
 [Learning Outcomes](#learning-outcomes)
 
@@ -115,7 +119,7 @@ A report of Monthly Total revenue
 
 ![model](https://github.com/sharifahstella/LITA_Class_Documentation-Excel/blob/main/monthly%20%20total%20revenue.PNG)
 
-### 4. Visualizations and Reports
+### 4. Data Visualization
 
 A dynamic dashboard was created in Excel, showcasing total sales by territory, percentage growth, and sales targets vs actual performance. Attached screenshots show:
 - Bar chart of total revenue by region
