@@ -106,6 +106,16 @@ A Report of how much units sold was made by each region
 
 ![revenue](https://github.com/sharifahstella/LITA_Class_Documentation-Excel/blob/main/Revenue%20region.JPG)
 
+A Report of Model by revenue
+
+A report of Top 10 stores by revenue
+
+A report of the top 5 markets by revenue
+
+A report of the bottom 5 stores by revenue 
+
+A report of Monthly Total revenue 
+
 4 **Visualizations and Reports**
 
 A dynamic dashboard was created in Excel, showcasing total sales by territory, percentage growth, and sales targets vs actual performance. Attached screenshots show:
