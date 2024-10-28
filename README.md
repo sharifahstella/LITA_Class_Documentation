@@ -108,7 +108,11 @@ A Report of how much units sold was made by each region
 
 A Report of Model by revenue
 
+![model](https://github.com/sharifahstella/LITA_Class_Documentation-Excel/blob/main/modelrevenue.JPG)
+
 A report of Top 10 stores by revenue
+
+![model](https://github.com/sharifahstella/LITA_Class_Documentation-Excel/blob/main/modelrevenue.JPG)
 
 A report of the top 5 markets by revenue
 
