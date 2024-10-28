@@ -131,9 +131,12 @@ A dynamic dashboard was created in Excel, showcasing total sales by territory, p
 
 Charts: Bar charts and line graphs to visualize total revenue and growth rates.
 Bar chart of total revenue by region
-![model]()
-Bar chart of total revenue by region
 
+![model](https://github.com/sharifahstella/LITA_Class_Documentation-Excel/blob/main/bargraph.PNG)
+
+Bar chart of total revenue by Units sold
+
+![model]()
 
 ### 4. Key Insights
 
