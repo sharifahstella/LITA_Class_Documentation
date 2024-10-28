@@ -2,29 +2,22 @@
 
 I am actively undergoing a training with an incubator hub with Ladies In Tech Africa. This experience has been so impactful in sharpening my skills in data manipulation, analysis, and visualization. However hands-on exprience projects have helped me to gain deeper insights into data-driven decision-making processes, enhancing my abilities to extract meaningful patterns.
 ### Project Outline
-[Project overview](#project-overview)
 
-[Data sources](#data-sources)
-
-[Tools used](#tools-used)
-
-[Data cleaning and preparations](#data-cleaning-and-preparations)
-
-[Explainatory Data Analysis](#explainatory-data-analysis)
+[Project Overview](#project-overview)
 
 [Data Analysis](#data-analysis)
 
 [Data Visualization](#data-visualization)
 
 [Learning Outcomes](#learning-outcomes)
+
+### Project Overview
+
+ This project is for examining sales data, the analysis seeks to uncover key insights regarding top-selling products, regional performance, customer trends, and monthly sales patterns
  
-### Project Goals
+### 1. Project Goals
 
 The goal of this project is to analyze and document sales performance across different territories for a retail store using Excel. This analysis will provide insights into sales trends, top-performing products, regional sales differences, and monthly sales patterns. The objective is to empower the business team with actionable insights to improve decision-making and optimize sales strategies by region.
-
-This project is for examining sales data, the analysis seeks to uncover key insights regarding top-selling products, regional performance, customer trends, and monthly sales patterns
-
-1. ### Goals 
 
 - Identify the top-performing territories
 
@@ -34,7 +27,7 @@ This project is for examining sales data, the analysis seeks to uncover key insi
 
 - Support data-driven decision-making for resource allocation and sales strategy development
 
-### 1.1 Data Overview
+#### 1.1 Data Overview
 
 Source: Sales data was gathered from the company’s CRM system and exported into Excel as CSV files.
 
@@ -63,7 +56,7 @@ Missing data points for certain territories were identified and handled (e.g., u
 
 Dates were standardized to ensure consistency across the time period analyzed.
 
- ### 2 Data Analysis
+### 2 Data Analysis
 ---
 #### 2.1  Used pivot tables to summarize
 
@@ -85,7 +78,7 @@ i. Repoting with Pivot Tables and charts 2:
 I explore even more advanced techniques and tips for creating professional-grade reports that effectively communicate your data insights.I fully mastered pivot tables and charts, offering the tools and knowledge to create dynamic, interactive, and insightful reports.
 
 
-## 3. Implementation
+### 3. Implementation
 
 
 Conditional Formatting: Applied to visually distinguish high and low sales regions.
@@ -122,7 +115,7 @@ A report of Monthly Total revenue
 
 ![model](https://github.com/sharifahstella/LITA_Class_Documentation-Excel/blob/main/monthly%20%20total%20revenue.PNG)
 
-## 4. Visualizations and Reports
+### 4. Visualizations and Reports
 
 A dynamic dashboard was created in Excel, showcasing total sales by territory, percentage growth, and sales targets vs actual performance. Attached screenshots show:
 - Bar chart of total revenue by region
@@ -144,7 +137,7 @@ A pie chart that shows units sold by line of business
 
 A line graph that shows Monthly Total revenue
 
-![model]()
+![model](https://github.com/sharifahstella/LITA_Class_Documentation-Excel/blob/main/line.PNG)
 
 
 ### 4. Key Insights
@@ -155,10 +148,11 @@ Sales Trends: Steady growth was observed in the North East, while sales in the N
 
 
 ### 5. Learning Outcomes 
-
--  Ability to write complex SQL queries to retrieve, filter, and aggregate data from relational databases.
--  Understanding of database structures and the ability to create, modify, and manage tables and relationships.
--  Skills in using SQL for data insertion, updating, and deletion while maintaining data integrity.
--  Proficiency in using Excel functions, formulas, and tools (like PivotTables and VLOOKUP) for data analysis.
--  Ability to create charts, graphs, and dashboards in Excel to effectively present data insights.
--  Familiarity with advanced Excel features such as macros, data validation, and conditional formatting for enhanced analysis.
+- Understand how to organize, structure, and format data in Excel.
+- Learn to sort, filter, and categorize data to make it more accessible and easier to analyze.
+- Master data validation techniques to ensure accurate data entry and minimize errors.
+- Proficiency in using Excel functions, formulas, and tools (like PivotTables and VLOOKUP) for data analysis.
+- Ability to create charts, graphs, and dashboards in Excel to effectively present data insights.
+- Familiarity with advanced Excel features such as macros, data validation, and conditional formatting for enhanced analysis.
+- Develop skills to build interactive dashboards using slicers, charts, and PivotTables.
+- Understand how to use cell linking and dynamic ranges to create live updates in reports and dashboards.
