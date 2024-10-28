@@ -136,7 +136,12 @@ Bar chart of total revenue by region
 
 Bar chart of total revenue by Units sold
 
-![model]()
+![model](https://github.com/sharifahstella/LITA_Class_Documentation-Excel/blob/main/horizontal.PNG)
+
+A pie chart that shows units sold by line of business
+
+![model](https://github.com/sharifahstella/LITA_Class_Documentation-Excel/blob/main/horizontal.PNG)
+
 
 ### 4. Key Insights
 
