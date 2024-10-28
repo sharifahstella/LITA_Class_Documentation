@@ -118,12 +118,9 @@ A report of the top 5 markets by revenue
 
 ![model](https://github.com/sharifahstella/LITA_Class_Documentation-Excel/blob/main/Top5markets.JPG)
 
-
-A report of the bottom 5 stores by revenue 
-
-![model](https://github.com/sharifahstella/LITA_Class_Documentation-Excel/blob/main/Top5markets.JPG)
-
 A report of Monthly Total revenue 
+
+![model]()
 
 4 **Visualizations and Reports**
 
