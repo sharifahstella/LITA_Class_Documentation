@@ -1,19 +1,6 @@
 # Sales Performance Analysis by Territory
 
 I am actively undergoing a training with an incubator hub with Ladies In Tech Africa. This experience has been so impactful in sharpening my skills in data manipulation, analysis, and visualization. However hands-on exprience projects have helped me to gain deeper insights into data-driven decision-making processes, enhancing my abilities to extract meaningful patterns.
-### Project Outline
-
-[Project Overview](#project-overview)
-
-[Data Analysis](#data-analysis)
-
-[Implementation](#implementation)
-
-[Data Visualizaton](#data-visualization)
-
-[Key Insights](#key-insights)
-
-[Learning Outcomes](#learning-outcomes)
 
 ### Project Overview
 
