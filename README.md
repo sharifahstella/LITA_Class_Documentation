@@ -146,4 +146,4 @@ Sales Trends: Steady growth was observed in the North East, while sales in the N
 - Ability to create charts, graphs, and dashboards in Excel to effectively present data insights.
 - Familiarity with advanced Excel features such as macros, data validation, and conditional formatting for enhanced analysis.
 - Develop skills to build interactive dashboards using slicers, charts, and PivotTables.
-- Understand how to use cell linking and dynamic ranges to create live updates in reports and dashboards.
+
