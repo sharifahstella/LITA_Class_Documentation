@@ -62,11 +62,9 @@ Charts and Graphs: Sales trends were visualized using bar charts, line charts, a
   2. Visualization
   3. Data Analysis
   
-I have learnt the basics of data analysis with MUSHIN AHMED at the incubator hub training with the Ladies In Tech Africa(LITA).Therefore below is the the break down of what i learnt 
+I have learnt the basics of data analysis with MUSHIN AHMED at the incubator hub training with the Ladies In Tech Africa(LITA).
 
-i. Repoting with Pivot Tables and charts 2:
-
-I explore even more advanced techniques and tips for creating professional-grade reports that effectively communicate your data insights.I fully mastered pivot tables and charts, offering the tools and knowledge to create dynamic, interactive, and insightful reports.
+- Repoting with Pivot Tables and charts 2:I explore even more advanced techniques and tips for creating professional-grade reports that effectively communicate the data insights.I fully mastered pivot tables and charts, offering the tools and knowledge to create dynamic, interactive, and insightful reports.
 
 
 ### 3. Implementation
