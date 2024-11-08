@@ -2,6 +2,10 @@
 
 I am actively undergoing a training with an incubator hub with Ladies In Tech Africa. This experience has been so impactful in sharpening my skills in data manipulation, analysis, and visualization. However hands-on exprience projects have helped me to gain deeper insights into data-driven decision-making processes, enhancing my abilities to extract meaningful patterns.
 
+I have learnt the basics of data analysis with MUSHIN AHMED at the incubator hub training with the Ladies In Tech Africa(LITA).
+
+- Repoting with Pivot Tables and charts 2:I explore even more advanced techniques and tips for creating professional-grade reports that effectively communicate the data insights.I fully mastered pivot tables and charts, offering the tools and knowledge to create dynamic, interactive, and insightful reports.
+
 ### Project Overview
 
  This project is for examining sales data, the analysis seeks to uncover key insights regarding top-selling products, regional performance, customer trends, and monthly sales patterns
@@ -62,10 +66,6 @@ Charts and Graphs: Sales trends were visualized using bar charts, line charts, a
   2. Visualization
   3. Data Analysis
   
-I have learnt the basics of data analysis with MUSHIN AHMED at the incubator hub training with the Ladies In Tech Africa(LITA).
-
-- Repoting with Pivot Tables and charts 2:I explore even more advanced techniques and tips for creating professional-grade reports that effectively communicate the data insights.I fully mastered pivot tables and charts, offering the tools and knowledge to create dynamic, interactive, and insightful reports.
-
 
 ### 3. Implementation
 
