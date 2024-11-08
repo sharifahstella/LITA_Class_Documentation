@@ -80,27 +80,27 @@ i used a conditional function of Nested Ifs to find the Transaction category col
 
 Pivot Tables showing the summarization of various reports 
 
-A Report of how much Revenue was made by each region
+- A Report of how much Revenue was made by each region
 
 ![revenue](https://github.com/sharifahstella/LITA_Class_Documentation-Excel/blob/main/Revenue%20region.JPG)
 
-A Report of how much units sold was made by each region
+- A Report of how much units sold was made by each region
 
 ![revenue](https://github.com/sharifahstella/LITA_Class_Documentation-Excel/blob/main/Revenue%20region.JPG)
 
-A Report of Model by revenue
+- A Report of Model by revenue
 
 ![model](https://github.com/sharifahstella/LITA_Class_Documentation-Excel/blob/main/modelrevenue.JPG)
 
-A report of Top 10 stores by revenue
+- A report of Top 10 stores by revenue
 
 ![model](https://github.com/sharifahstella/LITA_Class_Documentation-Excel/blob/main/Top10%20store.JPG)
 
-A report of the top 5 markets by revenue
+- A report of the top 5 markets by revenue
 
 ![model](https://github.com/sharifahstella/LITA_Class_Documentation-Excel/blob/main/Top5markets.JPG)
 
-A report of Monthly Total revenue 
+- A report of Monthly Total revenue 
 
 ![model](https://github.com/sharifahstella/LITA_Class_Documentation-Excel/blob/main/monthly%20%20total%20revenue.PNG)
 
@@ -109,22 +109,22 @@ A report of Monthly Total revenue
 A dynamic dashboard was created in Excel, showcasing total sales by territory, percentage growth, and sales targets vs actual performance. Attached screenshots show:
 - Bar chart of total revenue by region
 - Line chart comparing quarterly sales trends
-- Pie chart representing each territory’s contribution to overall sales
+- Pie chart representing each line of business contribution to overall sales
 
 Charts: Bar charts and line graphs to visualize total revenue and growth rates.
-Bar chart of total revenue by region
+- Bar chart of total revenue by region
 
 ![model](https://github.com/sharifahstella/LITA_Class_Documentation-Excel/blob/main/bargraph.PNG)
 
-Bar chart of total revenue by Units sold
+- Bar chart of total revenue by Units sold
 
 ![model](https://github.com/sharifahstella/LITA_Class_Documentation-Excel/blob/main/horizontal.PNG)
 
-A pie chart that shows units sold by line of business
+- A pie chart that shows units sold by line of business
 
 ![model](https://github.com/sharifahstella/LITA_Class_Documentation-Excel/blob/main/pie.PNG)
 
-A line graph that shows Monthly Total revenue
+- A line graph that shows Monthly Total revenue
 
 ![model](https://github.com/sharifahstella/LITA_Class_Documentation-Excel/blob/main/line.PNG)
 
